@@ -1,2 +1,4 @@
 # Path-Visualizer
-To visualize the path from source to destination using bfs,dfs.
+
+Simple tool to visualize EFFECTIVE ALGORITHMS like DFS, BFS and Dijkastra <br>
+reference: https://www.youtube.com/watch?v=msttfIHHkak
