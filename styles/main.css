@@ -4,7 +4,8 @@ body {
 }
 
 td {
-    border: 1px solid #79d9ce;
+    background-color: #e69262;
+    border: 1px solid #6820ac;
     width: 20px;
     height: 20px;
 }
